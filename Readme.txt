@@ -2,4 +2,4 @@ Explosion
 
 Simple explosion simulation
 
-![Screenshot](/explosion.jpg)
+![Screenshot](https://github.com/minium2/explosion/explosion.jpg)
