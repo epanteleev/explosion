@@ -2,4 +2,4 @@ Explosion
 
 Simple explosion simulation
 
-![Screenshot](explosion.png)
+![Screenshot](explosion.jpg)
